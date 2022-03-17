@@ -11,8 +11,8 @@
     "scheme": "xyz",
     "tilejson": "2.2.0",
     "tiles": [
-      "https://bmap-tiles-a.busmap.vn/data/vietnam/{z}/{x}/{y}.pdf",
-      "https://bmap-tiles-a.busmap.vn/data/vietnam/{z}/{x}/{y}.pdf"
+      "https://bmap-tiles-a.busmap.vn/data/vietnam/{z}/{x}/{y}.mvt",
+      "https://bmap-tiles-a.busmap.vn/data/vietnam/{z}/{x}/{y}.mvt"
     ],
     "vector_layers": [
       {

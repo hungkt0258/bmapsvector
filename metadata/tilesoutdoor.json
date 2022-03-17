@@ -6,7 +6,7 @@
   "version": "2.2",
   "tilejson": "2.1.0",
   "maskLevel": "8",
-  "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+  "attribution":"<a href=\"https://www.phenikaamaas.com/\" target=\"_blank\">&copy; Phenikaa MaaS</a>",
   "description": "Vector tiles containing general layers to maps for outdoor life like hiking, cycling, cross-country skiing, and other related activities from OpenStreetMap.",
   "pixel_scale": "256",
   "name": "Outdoor",

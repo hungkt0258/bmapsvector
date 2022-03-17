@@ -8,15 +8,15 @@
       "type": "vector"
     },
     "contours": {
-      "url": "https://api.maptiler.com/tiles/contours/tiles.json?key=KWynczbrxJr5hRyDNvhe",
+      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata/tilescontours.json",
       "type": "vector"
     },
     "terrain-rgb": {
-      "url": "https://api.maptiler.com/tiles/terrain-rgb/tiles.json?key=KWynczbrxJr5hRyDNvhe",
+      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata/tilesterrain-rgb.json",
       "type": "raster-dem"
     },
     "maptiler_planet": {
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=KWynczbrxJr5hRyDNvhe",
+      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata/tilesmaptiler.json",
       "type": "vector"
     }
   },

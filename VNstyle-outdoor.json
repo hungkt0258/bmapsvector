@@ -14,7 +14,7 @@
   },
   "sources": {
     "composite": {
-      "url": "https://bmap-tiles-a.busmap.vn/data/vietnam.json",
+      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata.json",
       "type": "vector"
     }
   },

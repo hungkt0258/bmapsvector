@@ -4,7 +4,7 @@
   "name": "Outdoor",
   "sources": {
     "outdoor": {
-      "url": "https://api.maptiler.com/tiles/outdoor/tiles.json?key=KWynczbrxJr5hRyDNvhe",
+      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata/tilesoutdoor.json",
       "type": "vector"
     },
     "contours": {

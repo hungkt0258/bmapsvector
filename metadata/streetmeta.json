@@ -7,7 +7,7 @@
   "tilejson": "2.1.0",
   "generator": "MapTiler Data",
   "planettime": "1641600000000",
-  "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
+  "attribution": "<a href=\"https://www.openmaptiles.org/\" target=\"_blank\">&copy; OpenMapTiles</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
   "description": "As the main global tileset contains layers for the general-purpose maps. In the comparison with OpenMapTiles, it contains more buildings and landcover in North America, controlled borders, and global landcover. This data are released in month cycles with quality control.",
   "pixel_scale": "256",
   "name": "MapTiler Planet",

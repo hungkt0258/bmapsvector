@@ -4,9 +4,8 @@
   "name": "Streets",
   "sources": {
     "openmaptiles": {
-      "url": "https://cdn.jsdelivr.net/gh/hungkt0258/bmapsvector/metadata/tiles.json",
-      "type": "vector",
-      "test": "test"
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=KWynczbrxJr5hRyDNvhe",
+      "type": "vector"
     },
     "maptiler_attribution": {
       "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
@@ -3789,7 +3788,7 @@
   "metadata": {
     "maptiler:copyright": "This style was generated on MapTiler Cloud. Usage outside of MapTiler Cloud requires valid MapTiler Data Package: https://www.maptiler.com/data/package/ -- please contact us."
   },
-  "glyphs": "https://bmap-tiles-dn-1.busmap.vn/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=KWynczbrxJr5hRyDNvhe",
   "sprite": "https://api.maptiler.com/maps/streets/sprite",
   "bearing": 0,
   "pitch": 0,
